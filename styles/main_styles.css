@@ -855,6 +855,8 @@ section
 	background: #FFFFFF;
 	padding-top: 91px;
 	padding-bottom: 25px;
+	max-height: 500px;
+	overflow: scroll;
 }
 .services_row
 {
@@ -883,6 +885,7 @@ section
 
 .extra
 {
+	margin-top: 30px;
 	padding-top: 54px;
 	padding-bottom: 53px;
 	background-image: url(../images/depilacion-laser-terapia-depilacion.jpg);
